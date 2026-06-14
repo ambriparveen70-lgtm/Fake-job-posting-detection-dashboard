@@ -114,9 +114,6 @@ Fake-Job-Posting-Detection/
 ├── wordcloud.png
 ├── README.md
 ```
-# TEST
-**Hello World**
-## 📸 Dashboard Preview
 
 ![Dashboard Preview](dashboard_preview.png)
 
