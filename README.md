@@ -98,27 +98,27 @@ This project uses Natural Language Processing (NLP) and Machine Learning to dete
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-'''
-data/
-notebooks/
-models/
-dashboard/
-images/
-reports/
-README.md
-requirements.txt
+```text
+Fake-Job-Posting-Detection/
+│
+├── Fake_Job_Posting_Detection.ipynb
+├── fake_job_posting_graphs.ipynb
+├── fake_job_model.pkl
+├── classification_report.txt
+├── dashboard_preview.png
+├── confusion_matrix.png
+├── top_fake_countries.png
+├── top_fake_industries.png
+├── wordcloud.png
+├── README.md
 ```
-
+# TEST
+**Hello World**
 ## 📸 Dashboard Preview
 
-Upload your dashboard screenshot and replace the filename below:
-
-
 ![Dashboard Preview](dashboard_preview.png)
-
----
 
 ## 🚀 Future Improvements
 
@@ -131,7 +131,7 @@ Upload your dashboard screenshot and replace the filename below:
 
 ## 👨‍💻 Author
 
-Your Name
+Ambri Parveen
 
 ### Tools Used
 
