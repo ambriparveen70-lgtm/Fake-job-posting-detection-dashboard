@@ -116,7 +116,7 @@ requirements.txt
 Upload your dashboard screenshot and replace the filename below:
 
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
